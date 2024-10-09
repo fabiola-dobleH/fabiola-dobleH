@@ -7,11 +7,11 @@
 - ¡Hola! Soy estudiante de Ingeniería de Sistemas, y aunque no soy la mejor programando aún, cada día me
   esfuerzo por aprender más. Me encanta la idea de crear aplicaciones útiles y juegos interactivos, y estoy
   comprometida a mejorar mis habilidades poco a poco.Estoy trabajando en proyectos pequeños mientras exploro
-  lenguajes como Python, JavaScript y Java. Mi objetivo es desarrollar aplicaciones que hagan la vida más
+  lenguajes como Python y Java. Mi objetivo es desarrollar aplicaciones que hagan la vida más
   fácil y juegos que sean divertidos y desafiantes. 💻🌍
 
 <h3 align="left">Lenguajes y herramientas:</h3>
- </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> </a> <a href="https://www.docker.com/" target="_blank"> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img width="80" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img width="80" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+ </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> </a> <a href="https://www.docker.com/" target="_blank"> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img width="80" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Redes Sociales 🤝 </h3>
 
